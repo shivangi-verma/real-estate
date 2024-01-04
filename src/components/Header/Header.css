@@ -16,6 +16,7 @@
 
 .h-menu>*:hover {
     cursor: pointer;
+    color: white;
 }
 
 .menu-icon {
@@ -29,7 +30,6 @@
 
     .h-menu {
         z-index: 99;
-
         color: var(--black);
         position: absolute;
         top: 3rem;
